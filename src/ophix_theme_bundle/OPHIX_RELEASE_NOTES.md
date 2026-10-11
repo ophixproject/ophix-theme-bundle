@@ -1,6 +1,6 @@
 # Ophix Theme Bundle Release Notes
 
-## Unreleased
+## 2026.10.11.01
 
 - Refreshed all 9 bundled themes from current server exports — each theme now carries
   every `Theme` model field added since the initial release (action button colors,
