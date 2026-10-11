@@ -3,7 +3,7 @@
 A bundle of demonstration color-palette themes for Ophix Project Servers:
 
 - Apurplexy
-- Blooberry
+- Bloobs
 - Chocolatte
 - Eucalypty
 - Ice Queen

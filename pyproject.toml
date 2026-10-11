@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ophix-theme-bundle"
-version = "2026.07.11.01"
+version = "2026.10.11.01"
 description = "A bundle of demonstration color-palette themes for Ophix Project Servers"
 readme = "README.md"
 requires-python = ">=3.9"
@@ -13,7 +13,7 @@ authors = [
     { name = "Ophix Project" }
 ]
 dependencies = [
-    "ophix-admin-interface>=2026.06.08.04",
+    "ophix-admin-interface>=2026.09.07.01",
 ]
 
 [project.entry-points."ophix.plugins"]
