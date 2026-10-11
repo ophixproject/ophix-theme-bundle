@@ -1,6 +1,6 @@
 # Ophix Theme Bundle Release Notes
 
-## Unreleased
+## 2026.10.11.03
 
 - Public-release packaging: added `LICENSE`, PyPI trove classifiers, project URLs, and
   `.github/CODEOWNERS`. No functional changes.
