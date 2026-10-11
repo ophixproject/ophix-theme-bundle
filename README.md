@@ -27,3 +27,12 @@ pip install ophix-theme-bundle
 ophix-manage migrate
 ophix-manage set_theme "Sakura"
 ```
+
+Requires [ophix-admin-interface](https://github.com/ophixproject/ophix-admin-interface) (pulled in
+automatically as a dependency).
+
+---
+
+## Server
+
+This plugin is part of the [Ophix Project](https://ophix.io) server stack.
